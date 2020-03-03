@@ -629,9 +629,8 @@ footer .btn-social-icon :first-child {
     line-height: 44px;
 }
 
-footer .hosting {
-    width: 64px;
-    height: auto;
+footer .btn-fa-icon a {
+    margin-left: 4px;
 }
 
 .social-badges {
@@ -660,6 +659,8 @@ footer .hosting {
 
 .badges .btn {
     margin-bottom: 5px;
+footer .btn-fa-icon .fa {
+    width: 18px;
 }
 
 .typed-cursor{
